@@ -1,5 +1,7 @@
-## Hello World 👋
+# Hello World 👋 
 
+I'm currently studying computer science.
+#### See you soon!
 <!--
 **tasoby/tasoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
